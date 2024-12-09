@@ -1,2 +1,2 @@
-# HDBn-encoding-and-decoding
+# HDBn-Labview-MATLAB
 providing MATLAB&amp;Labview Solution for HDBn encoding and decoding
