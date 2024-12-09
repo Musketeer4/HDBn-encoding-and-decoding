@@ -1,2 +1,3 @@
-# HDBn-Labview-MATLAB
-providing MATLAB&amp;Labview Solution for HDBn encoding and decoding
+# HDBn encode & decode on Labview2018
+providing Labview Solution for HDBn encoding and decoding
+warning: should open matlab command window before using.
